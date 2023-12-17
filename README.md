@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GodlyHockey
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning html & css
+yo
 
 <!---
 GodlyHockey/GodlyHockey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
